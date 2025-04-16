@@ -11,3 +11,7 @@
 ```bash
 pip install -r requirements.txt
 ```
+
+$$
+\text{Softmax}(x_i) = \frac{e^{x_i}}{\sum_{j=1}^{n} e^{x_j}}
+$$
